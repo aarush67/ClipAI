@@ -41,8 +41,8 @@ ClipAI is a modern, AI-powered clipboard manager for macOS, designed to enhance 
 
 1. **Download the Precompiled App**:
    - Visit the [GitHub Releases](https://github.com/aarush67/ClipAI/releases) page.
-   - Download the latest `.dmg` or `.app` file from the releases tab.
-   - Open the `.dmg` file and drag `ClipAI.app` to the `/Applications` folder.
+   - Download the latest `.zip` file from the releases tab.
+   - Open the `.zip` file and drag `ClipAI.app` to the `/Applications` folder.
 
 2. **Grant Permissions**:
    - Launch ClipAI from `/Applications`.
